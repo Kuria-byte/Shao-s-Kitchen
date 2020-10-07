@@ -3,6 +3,9 @@
  - Shao's Kitchen is an exusitive food company based in Nairobi
  
  ![shaos](https://user-images.githubusercontent.com/61579772/95323476-ce29d580-08d0-11eb-8430-d5302728fdf1.jpg)
+ 
+ ## Live
+ - https://shaos-kitchen.netlify.app/
 
  
 ## What I learnt📐
