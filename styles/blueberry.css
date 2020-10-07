@@ -1,0 +1,43 @@
+/* Blueberry color scheme 
+/* 
+/* Plum */
+ .btn.btn-secondary,.progress-bar-danger,.blog-tags a:hover, .social-media i,.label-default,.btn-default:active:hover, .post-slide .post-date,.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover, .nav.nav-tabs li:nth-child(even),.breadcrumb,figure.team:hover i, .btn:hover,.btn-default:hover,.back-to-top i , .pager li>a:focus, .pager li>a:hover,a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, .pagination>li>a:hover,.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover,.date-category,.navbar-default .navbar-nav>li>a::after , .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .spinner > div,.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .bg-color1,.btn:before,.nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover, .nav-pills>li>a:hover{
+     background:#88498F;
+}
+ .post-info i, .table>thead>tr>th,.blog-single h2 a:hover, .contact-icon .top-icon, .box-hover i,.post-slide .post-title a:hover, .testimonial .testimonial-title,.team h4,.menu-item-price,.post-slide .post-bar li i, h1,h2,.panel-heading a:hover,.panel-heading a,blockquote:before,.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, a:hover,a:focus,.alert:after, .alert:before, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .owl-prev i:hover, .owl-next i:hover,ul.custom li:before,.margin-icon,.brand,.brand i{
+     color:#88498F;
+}
+ .post-slide .post-review, .testimonial-pic>img, figure.team img,.content-box.home,.section-heading:after,.service-icon img,.contact-icon,.btn:hover,.btn-default:hover{
+     border-color:#88498F;
+}
+/* red */
+ a, figure.team-style3 i, .nav.nav-tabs > li:focus > a, .btn,.btn-default,.testimonial .content:before {
+     color:#993955;
+}
+ .progress-bar-warning,#elements h3.sub-header, .social-media i:hover,.navbar-toggle,.back-to-top i:hover,.navbar-nav>li>.dropdown-menu, .btn.btn-secondary:hover,.btn.btn-secondary:focus, .navbar-default .navbar-nav>li:hover, .btn-primary:active,.btn-primary:not(:disabled):not(.disabled):active,.btn-primary.focus, .btn-primary:focus,.btn-default.focus, .btn-default:focus,.btn,.btn-default, .nav.nav-tabs li:nth-child(odd), .pager li>a, .pager li>span,.blog-tags a,.nav-pills>li>a ,.owl-prev i, .owl-next i,.owl-theme .owl-dots .owl-dot span:hover:before , .owl-theme .owl-dots .owl-dot.active span:before{
+     background-color:#993955 ;
+}
+ h3.title:after, .menu-item-name,.post-slide .post-bar, .btn,.btn-default, .form-control:focus,.btn-primary.focus, .btn-primary:focus{
+     border-color:#993955;
+}
+/* lavender */
+ .table-striped>tbody>tr:nth-of-type(odd), .nav .open>a, .nav .open>a:focus, .nav .open>a:hover, .pagination>li>a, .pagination>li>span, .pagination>li>a:focus, .progress-bar-info, .well,.list-group-item,.dropdown-menu, .alert-info,.contact-info,.panel-heading,.box-hover i.circle,.bg-light, #sidebar{
+     background-color:#F3E5F2;
+}
+ .gradient-overlay{
+     background: -moz-linear-gradient(bottom, rgba(243, 229, 242, 0.65) 0%, rgba(0, 0, 0, 0) 100%)!important;
+    /* FF3.6-15 */
+     background: -webkit-linear-gradient(bottom, rgba(243, 229, 242, 0.65) 0%, rgba(0, 0, 0, 0) 100%)!important;
+    /* Chrome10-25,Safari5.1-6 */
+     background: linear-gradient(to top, rgb(243, 229, 242) 0%, rgba(0, 0, 0, 0) 100%)!important;
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+ .gradient-overlay.top-to-bottom{
+     background: -moz-linear-gradient(top, rgba(243, 229, 242, 0.85) 0%, rgba(0, 0, 0, 0) 90%)!important;
+    /* FF3.6-15 */
+     background: -webkit-linear-gradient(top, rgba(243, 229, 242, 0.85) 0%, rgba(0, 0, 0, 0) 90%)!important;
+    /* Chrome10-25,Safari5.1-6 */
+     background: linear-gradient(to bottom, rgb(243, 229, 242) 0%, rgba(0, 0, 0, 0) 90%)!important;
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+ 

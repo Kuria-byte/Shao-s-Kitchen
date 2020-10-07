@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-birthday-cake:before { content: "\f100"; }
+.flaticon-cake:before { content: "\f101"; }
+.flaticon-cake-1:before { content: "\f102"; }
+.flaticon-cake-2:before { content: "\f103"; }
+.flaticon-birthday-cake-1:before { content: "\f104"; }
+.flaticon-cake-3:before { content: "\f105"; }
+.flaticon-cake-4:before { content: "\f106"; }
+.flaticon-pancake:before { content: "\f107"; }
+.flaticon-cake-5:before { content: "\f108"; }
+.flaticon-cupcake:before { content: "\f109"; }
+.flaticon-coffee-mug:before { content: "\f10a"; }
+.flaticon-cake-6:before { content: "\f10b"; }
+.flaticon-cake-7:before { content: "\f10c"; }
+.flaticon-birthday-cake-2:before { content: "\f10d"; }
+.flaticon-cake-8:before { content: "\f10e"; }
+.flaticon-cake-9:before { content: "\f10f"; }
+.flaticon-cake-10:before { content: "\f110"; }
+.flaticon-cake-11:before { content: "\f111"; }
+.flaticon-cake-12:before { content: "\f112"; }
+.flaticon-dessert:before { content: "\f113"; }
+.flaticon-food-and-restaurant:before { content: "\f114"; }
+.flaticon-sugar:before { content: "\f115"; }
+.flaticon-candy:before { content: "\f116"; }
+.flaticon-chocolate:before { content: "\f117"; }
+.flaticon-ice-cream:before { content: "\f118"; }
+.flaticon-cup-cake:before { content: "\f119"; }
+.flaticon-cookie:before { content: "\f11a"; }
+.flaticon-timetable:before { content: "\f11b"; }
+.flaticon-delivery:before { content: "\f11c"; }
+.flaticon-shipping:before { content: "\f11d"; }
+.flaticon-free-delivery:before { content: "\f11e"; }
+.flaticon-social-care:before { content: "\f11f"; }
+.flaticon-cooking:before { content: "\f120"; }
+.flaticon-chef:before { content: "\f121"; }

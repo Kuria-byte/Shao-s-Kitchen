@@ -1,0 +1,108 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 25/02/2020 16:17
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-birthday-cake:before { content: "\f100"; }
+.flaticon-cake:before { content: "\f101"; }
+.flaticon-cake-1:before { content: "\f102"; }
+.flaticon-cake-2:before { content: "\f103"; }
+.flaticon-birthday-cake-1:before { content: "\f104"; }
+.flaticon-cake-3:before { content: "\f105"; }
+.flaticon-cake-4:before { content: "\f106"; }
+.flaticon-pancake:before { content: "\f107"; }
+.flaticon-cake-5:before { content: "\f108"; }
+.flaticon-cupcake:before { content: "\f109"; }
+.flaticon-coffee-mug:before { content: "\f10a"; }
+.flaticon-cake-6:before { content: "\f10b"; }
+.flaticon-cake-7:before { content: "\f10c"; }
+.flaticon-birthday-cake-2:before { content: "\f10d"; }
+.flaticon-cake-8:before { content: "\f10e"; }
+.flaticon-cake-9:before { content: "\f10f"; }
+.flaticon-cake-10:before { content: "\f110"; }
+.flaticon-cake-11:before { content: "\f111"; }
+.flaticon-cake-12:before { content: "\f112"; }
+.flaticon-dessert:before { content: "\f113"; }
+.flaticon-food-and-restaurant:before { content: "\f114"; }
+.flaticon-sugar:before { content: "\f115"; }
+.flaticon-candy:before { content: "\f116"; }
+.flaticon-chocolate:before { content: "\f117"; }
+.flaticon-ice-cream:before { content: "\f118"; }
+.flaticon-cup-cake:before { content: "\f119"; }
+.flaticon-cookie:before { content: "\f11a"; }
+.flaticon-timetable:before { content: "\f11b"; }
+.flaticon-delivery:before { content: "\f11c"; }
+.flaticon-shipping:before { content: "\f11d"; }
+.flaticon-free-delivery:before { content: "\f11e"; }
+.flaticon-social-care:before { content: "\f11f"; }
+.flaticon-cooking:before { content: "\f120"; }
+.flaticon-chef:before { content: "\f121"; }
+    
+    $font-Flaticon-birthday-cake: "\f100";
+    $font-Flaticon-cake: "\f101";
+    $font-Flaticon-cake-1: "\f102";
+    $font-Flaticon-cake-2: "\f103";
+    $font-Flaticon-birthday-cake-1: "\f104";
+    $font-Flaticon-cake-3: "\f105";
+    $font-Flaticon-cake-4: "\f106";
+    $font-Flaticon-pancake: "\f107";
+    $font-Flaticon-cake-5: "\f108";
+    $font-Flaticon-cupcake: "\f109";
+    $font-Flaticon-coffee-mug: "\f10a";
+    $font-Flaticon-cake-6: "\f10b";
+    $font-Flaticon-cake-7: "\f10c";
+    $font-Flaticon-birthday-cake-2: "\f10d";
+    $font-Flaticon-cake-8: "\f10e";
+    $font-Flaticon-cake-9: "\f10f";
+    $font-Flaticon-cake-10: "\f110";
+    $font-Flaticon-cake-11: "\f111";
+    $font-Flaticon-cake-12: "\f112";
+    $font-Flaticon-dessert: "\f113";
+    $font-Flaticon-food-and-restaurant: "\f114";
+    $font-Flaticon-sugar: "\f115";
+    $font-Flaticon-candy: "\f116";
+    $font-Flaticon-chocolate: "\f117";
+    $font-Flaticon-ice-cream: "\f118";
+    $font-Flaticon-cup-cake: "\f119";
+    $font-Flaticon-cookie: "\f11a";
+    $font-Flaticon-timetable: "\f11b";
+    $font-Flaticon-delivery: "\f11c";
+    $font-Flaticon-shipping: "\f11d";
+    $font-Flaticon-free-delivery: "\f11e";
+    $font-Flaticon-social-care: "\f11f";
+    $font-Flaticon-cooking: "\f120";
+    $font-Flaticon-chef: "\f121";
